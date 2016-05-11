@@ -6,6 +6,8 @@
   "repository": "",
   "private": true,
   "dependencies": {
+    "npm": "2.11.3",
+    "node": "0.12.7",
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "1.0.8",
     "bookshelf": "^0.9.1",
