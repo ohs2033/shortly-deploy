@@ -6,8 +6,7 @@
   "repository": "",
   "private": true,
   "dependencies": {
-    "npm": "2.11.3",
-    "node": "0.12.7",
+    
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "1.0.8",
     "bookshelf": "^0.9.1",
@@ -31,6 +30,10 @@
     "request": "^2.34.0",
     "sqlite3": "~3.0.10"
   },
+  "engines":{
+    "npm": "2.11.3",
+    "node": "0.12.7"
+    },
   "devDependencies": {
     "supertest": "^0.10.0"
   }
